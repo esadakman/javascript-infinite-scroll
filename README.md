@@ -8,12 +8,12 @@
   - Gain practical experience in web development by working on a real-world project.
   - Share my work with the community and contribute to the open-source ecosystem.
 
-
 ## Description
+
 - I wanted to create a small project related to the commonly used infinite scroll animations on the internet, and I came across a [video](https://www.youtube.com/watch?v=iLmBy-HKIAw) by Kevin Powell on YouTube.
 - I started the project again to brush up on my CSS skills and to use animations with the help of JavaScript.
 
-### Project Link
+## Project Link
 
 You can access the project at [this link](https://esadakman.github.io/javascript-infinite-scroll/)
 
@@ -41,6 +41,7 @@ SOLUTION
 $ git clone https://github.com/esadakman/javascript-infinite-scroll.git
 $ cd javascript-infinite-scroll
 ```
+
 - Open the project with VS Code or other IDE's
 - Open index.html
 - Run the project using your preferred development server.
